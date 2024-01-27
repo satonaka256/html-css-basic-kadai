@@ -40,6 +40,7 @@ body{
 }
 
 .naka{
+  color: rgb(255, 192, 203);
   text-align: center;
 }
 
@@ -57,6 +58,4 @@ p {
   font-weight: bold;
 }
 
-h1 {
 
-}
